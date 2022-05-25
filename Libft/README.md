@@ -16,7 +16,7 @@ For detailed information, refer to the subject of this project in the "Subjects_
 
 ### Functions from <stdlib.h> library
 
-    ft_atoi	    - convert ASCII string to integer.
+    ft_atoi     - convert ASCII string to integer.
     ft_calloc	- memory allocation.
 
 ### Functions from <strings.h> library

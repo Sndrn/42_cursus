@@ -16,7 +16,7 @@ For detailed information, refer to the subject of this project in the "Subjects_
 
 ### Functions from <stdlib.h> library
 
-    ft_atoi	- convert ASCII string to integer.
+    ft_atoi	    - convert ASCII string to integer.
     ft_calloc	- memory allocation.
 
 ### Functions from <strings.h> library
@@ -45,7 +45,7 @@ For detailed information, refer to the subject of this project in the "Subjects_
     ft_putstr_fd	- output string to given file.
     ft_putendl_fd	- output string to given file with newline.
     ft_putnbr_fd	- output integer to given file.
-    ft_itoa	- convert integer to ASCII string.
+    ft_itoa	    - convert integer to ASCII string.
     ft_substr	- extract substring from string.
     ft_strtrim	- trim beginning and end of string with the specified characters.
     ft_strjoin	- concatenate two strings into a new string (with malloc).

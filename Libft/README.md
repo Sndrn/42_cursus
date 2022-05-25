@@ -2,7 +2,7 @@
 
 The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects.
 
-For detailed information, refer to the subject of this project in the "Subjects_PDFs" directory.
+For more information, please refer to the subject [Libft] ( 
 
 ### Functions from <ctype.h> library
 

@@ -4,7 +4,7 @@ This project consists of coding a function that returns one line at a time from 
 
 For more information, please refer to the subject [get_next_line](https://github.com/Sndrn/42_cursus/tree/main/Subjects_PDFs).
 
-## Description
+### Description
 
 - Calling your function get_next_line in a loop will then allow you to read the text available on a file descriptor one line at a time until the EOF.
 - Make sure that your function behaves well when it reads from a file and when it reads from the standard input.

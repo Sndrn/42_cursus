@@ -2,6 +2,8 @@
 
 The purpose of this project is to sort data on a stack, with specific rules, using the lowest possible number of actions.
 
+For more information, please refer to the subject [push_swap](https://github.com/Sndrn/42_cursus/tree/main/Subjects_PDFs).
+
 ## Description
 
 The push_swap program takes a set of int values, sorts the values using rules and writes commands that make the set sorted. To do this, you need think the algorithm and implement it.

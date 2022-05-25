@@ -1,6 +1,6 @@
 # About
 
-The purpose of this project is sort data on a stack, with specific rules, using the lowest possible number of actions.
+The purpose of this project is to sort data on a stack, with specific rules, using the lowest possible number of actions.
 
 ## Description
 
@@ -8,7 +8,7 @@ The push_swap program takes a set of int values, sorts the values using rules an
 
 ### Rules
 
-We have 2 stacks named a and b. To start with:
+We have 2 stacks named A and B. To start with:
 
     a - contains a random number of either positive or negative numbers without any duplicates
     b - is empty
@@ -42,6 +42,6 @@ pa
 pa
 
 
-### Algoritm
+### Algorithm
 
-To complete the project, I used [Radix](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e) sort algoritm. 
+To complete the project, I used [Radix](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e) sort algorithm. 

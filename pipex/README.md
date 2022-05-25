@@ -2,6 +2,7 @@
 
 The purpose of this project is the discovery in detail UNIX mechanism - pipe.
 
+For more information, please refer to the subject [pipex](https://github.com/Sndrn/42_cursus/tree/main/Subjects_PDFs).
 
 ## Description
 

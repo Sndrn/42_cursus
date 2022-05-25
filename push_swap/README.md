@@ -29,7 +29,7 @@ The goal is to sort in ascending order numbers into stack a. To do this we have 
 
 ### Example of working push_swap
 
-Input parameters and output of the implemented programme:
+Input parameters and output of the implemented program :
 
 $> ./push_swap 2 1 3 6 5 8
 sa

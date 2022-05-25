@@ -3,7 +3,7 @@
 The purpose of this project is the discovery in detail UNIX mechanism - pipe.
 
 
-## Description of mandatory part
+## Description
 
 The program pipex should repeat the behaviour of the next shell command
 

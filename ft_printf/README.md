@@ -4,7 +4,7 @@ This project consists of coding a library that contains a simplified version of 
 
 For more information, please refer to the subject [ft_printf](https://github.com/Sndrn/42_cursus/tree/main/Subjects_PDFs).
 
-### Desciprion
+### Description
 
     The prototype of ft_printf should be int ft_printf(const char *, ...);
     You have to recode the libc’s printf function

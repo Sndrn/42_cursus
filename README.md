@@ -44,4 +44,25 @@
 
 ## Inner Circle (basic curriculum)
 
+| Circle | Project         | Technology | Description |
+| :------| :-------        | :----------| :-----------|
+| 00     | Libft           | C        | Bla         |
+| 01     | ft_printf       | C        | Bla         |
+| 01     | Born2beroot     | VM, Network & system administration     | Bla         |
+| 01     | get_next_line   | C        | Bla         |
+| 02     | pipex           | C        | Bla         |
+| 02     | so_long         | C        | Bla         |
+| 02     | push_swap       | C        | Bla         |
+| 03     | minishell       | C        | Bla         |
+| 03     | Philosopher     | C        | Bla         |
+| 04     | cub3d           | C, Computer Graphics        | Bla         |
+| 04     | NetPractice     | Network & system administration     | Bla         |
+| 04     | CPP Module(9)   | C++        | Bla         |
+| 05     | ft_container    | C++        | Bla         |
+| 05     | Inception       | Docker, Network & system administration      | Bla         |
+| 05     | webserv         | C++, Unix, Network & system administration        | Bla         |
+| 06     | ft_transcendence| Web, NestJS, framework TypeScript, PostgreSQL |   This project consists in creating a website to participate in a competition of the famous game Pong !      |
+
+
+
 This repository contains the projects of the inner circle that I finished.

@@ -46,28 +46,21 @@
 
 | Circle | Project         | Technology | Description |
 | :------| :-------        | :----------| :-----------|
-|
 | 00     | Libft           | C        | Recode a number of functions from the standard C library, as well as other utility functions that will be reused through the curriculum.|
-|
 | 01     | ft_printf       | C        | Recode the printf function         |
 | 01     | Born2beroot     | VM, Network & system administration     |Create a machine in VirtualBox under specific instructions. Then, at the end of this project, we are able to set up our own operating system while implementing strict rules.      |
 | 01     | get_next_line   | C        | Coding a function that returns one line at a time from a text file.       |
-|
 | 02     | pipex           | C        | Recoding and discover in detail UNIX mechanism - pipe.        |
 | 02     | so_long         | C        | Create a small 2D game with minilibx.|
 | 02     | push_swap       | C        | Sort data on a stack, with specific rules, using the lowest possible number of actions.        |
-|
 | 03     | minishell       | C        | Create a simple shell       |
 | 03     | Philosophers    | C        | An introduction to threading and processes, and how to work on the same memory space.    |
-|
 | 04     | cub3d           | C, Computer Graphics        | Inspired by the world-famous eponymous 90's game, which was the first FPS ever. This project will enable students to explore ray-casting. The goal will be to make a dynamic view inside a maze, in which the player will have to find its way.         |
 | 04     | NetPractice     | Network & system administration     | This project aims to introduce students to the network through practical cases.       |
 | 04     | CPP Module(9)   | C++        |   Understand the specificities of C++ compared to C. It's time to dive into object-oriented programming!      |
-|
 | 05     | ft_container    | C++        |   The many containers of C++ have various interests. In order to understand them well, we will re-implement them!      |
 | 05     | Inception       | Docker, Network & system administration      |  This project aims to deepen our knowledge by making us use Docker. We will virtualise several Docker images by creating them in our new personal virtual machine.        |
 | 05     | webserv         | C++, Unix, Network & system administration        |  write our own HTTP server. We have to follow the HTTP RFC and will therefore be able to test with a real web browser.       |
-|
 | 06     | ft_transcendence| Web, NestJS, framework TypeScript, PostgreSQL |   This project consists in creating a website to participate in a competition of the famous game Pong !      |
 
 

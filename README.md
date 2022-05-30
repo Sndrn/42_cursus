@@ -47,7 +47,7 @@
 | Circle | Project         | Technology | Description |
 | :------| :-------        | :----------| :-----------|
 |
-| 00     | Libft           | C        | Recode a number of functions from the standard C library, as well as other utility functions that will be reused through the curriculum.
+| 00     | Libft           | C        | Recode a number of functions from the standard C library, as well as other utility functions that will be reused through the curriculum.|
 |
 | 01     | ft_printf       | C        | Recode the printf function         |
 | 01     | Born2beroot     | VM, Network & system administration     |Create a machine in VirtualBox under specific instructions. Then, at the end of this project, we are able to set up our own operating system while implementing strict rules.      |

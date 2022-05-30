@@ -5,7 +5,7 @@
 
 The 42 cursus is free for whoever is approved in its selection process : the so-called "C Piscine", a 26-day C programming bootcamp, is the last stage in the selection process for becoming a 42's student.
 
-## Skills developed at 42cursus
+## Skills developed at 42
 ### Hard-skills
 
 - C/C++ language, Makefile

@@ -46,7 +46,8 @@
 
 | Circle | Project         | Technology | Description |
 | :------| :-------        | :----------| :-----------|
-| 00     | Libft           | C        | Bla         |
+| 00     | Libft           | C        |   Recode a number of functions from the standard C library, as well as other utility functions that will be reused through the curriculum.
+       |
 | 01     | ft_printf       | C        | Bla         |
 | 01     | Born2beroot     | VM, Network & system administration     | Bla         |
 | 01     | get_next_line   | C        | Bla         |

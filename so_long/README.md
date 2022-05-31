@@ -9,4 +9,5 @@ It is built to make you work with textures, sprites and some very basic gameplay
 For more information, please refer to the subject [so_long](https://github.com/Sndrn/42_cursus/tree/main/Subjects_PDFs).
 
 
-<img width="1725" alt="Screen Shot 2022-05-31 at 12 28 15 PM" src="https://user-images.githubusercontent.com/89401289/171153556-1708c74e-c272-4d31-a039-9764993faff0.png">
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/89401289/171155078-87caa4c9-3bd5-471b-b015-f396d0eec451.gif)
+
